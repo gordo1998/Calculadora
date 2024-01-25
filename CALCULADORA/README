@@ -1,0 +1,4 @@
+To run this program you need to have run apache and save in the project in this route:
+- ../../xampp/htdocs/
+
+If you want to modify the project you can work with Visual Studio Code.
